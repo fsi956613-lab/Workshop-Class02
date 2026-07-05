@@ -78,7 +78,7 @@ git clone <your-fork-url>
 จากนั้นเข้า folder:
 
 ```bash
-cd Abyss-Beast-Protocol
+cd Workshop-Class02
 ```
 
 ---
